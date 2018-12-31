@@ -31,5 +31,5 @@
 ![image](https://github.com/xmge/seelog/blob/master/demo.gif)
 
 ## 项目demo
-* 检测单个日志文件 [https://github.com/xmge/seelog/blob/master/example/e1.go](https://github.com/xmge/seelog/blob/master/example/e1.go)
-* 检测多个日志文件 开发中...
+* 检测单个日志文件：[https://github.com/xmge/seelog/blob/master/example/e1.go](https://github.com/xmge/seelog/blob/master/example/e1.go)
+* 检测多个日志文件：开发中...

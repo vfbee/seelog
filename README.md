@@ -29,3 +29,6 @@
 
 ### 项目展示
 ![image](https://github.com/xmge/seelog/blob/master/demo.gif)
+
+## 项目demo
+* 检测单个日志文件 [https://github.com/xmge/seelog/blob/master/example/e1.go](https://github.com/xmge/seelog/blob/master/example/e1.go)

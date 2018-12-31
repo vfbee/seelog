@@ -3,7 +3,7 @@
 
 > 有了seelog,妈妈再也不用担心我登录服务器查看日志le...   
 项目地址：https://github.com/xmge/seelog    
-演示地址：http://seelog.xmge.top // 正在备案中...   
+演示地址：http://118.24.10.218:9999   
 欢迎各位gopher使用指正:smiley: 
 
 ### 项目背景
@@ -29,3 +29,7 @@
 
 ### 项目展示
 ![image](https://github.com/xmge/seelog/blob/master/demo.gif)
+
+## 项目demo
+* 检测单个日志文件：[https://github.com/xmge/seelog/blob/master/example/e1.go](https://github.com/xmge/seelog/blob/master/example/e1.go)
+* 检测多个日志文件：开发中...

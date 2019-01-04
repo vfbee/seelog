@@ -10,13 +10,13 @@ import (
 
 const (
 	TestLog  = "test.log"	// 项目日志位置
-	TestPort = 9999			// 浏览器查看日志的端口
+	TestPort = 9999		// 浏览器查看日志的端口
 )
 
 // e1：监听单个日志文件
 func main()  {
 	seelog.See(TestLog, TestPort)	// 在程序开始时 开启 seelog 即可
-	yourProject()					// 模拟your项目
+	yourProject()			// 模拟your项目
 }
 
 func yourProject()  {
